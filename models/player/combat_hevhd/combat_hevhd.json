@@ -43,6 +43,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -77,6 +78,7 @@
 			"type": 8
 		}
 	],
+	"date": 1620406409,
 	"events": [
 		{
 			"event": 2001,
@@ -186,7 +188,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8b8777956027c58f6fb556f1eb65a067",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "combat_hevhd.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

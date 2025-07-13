@@ -48,6 +48,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -82,6 +83,7 @@
 			"type": 8
 		}
 	],
+	"date": 1628625014,
 	"events": [
 		{
 			"event": 2001,
@@ -191,7 +193,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b6871fa270fc16853a25cb6fd6d4b6df",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "helmet.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

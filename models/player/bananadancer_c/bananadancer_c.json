@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -62,6 +63,7 @@
 			"type": 8
 		}
 	],
+	"date": 1460174632,
 	"events": [
 		{
 			"event": 2001,
@@ -437,7 +439,11 @@
 	],
 	"id": 1414743113,
 	"md5": "c5d939e4976d124cfc134f01f0a72447",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "bananadancer.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

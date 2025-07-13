@@ -123,6 +123,7 @@
 			"name": "gatiito_sc"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -157,6 +158,7 @@
 			"type": 8
 		}
 	],
+	"date": 1605723761,
 	"events": [
 		{
 			"event": 2001,
@@ -266,7 +268,11 @@
 	],
 	"id": 1414743113,
 	"md5": "59c8b57922e7317cb80c806d36b04e35",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "test.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

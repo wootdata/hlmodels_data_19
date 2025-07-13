@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 7,
@@ -62,6 +63,7 @@
 			"type": 8
 		}
 	],
+	"date": 1005508668,
 	"events": [
 		{
 			"event": 2001,
@@ -171,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ea9b77805b39d4717ee633cf0f864774",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "valve/models/player/FNBarn/FNBarn.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

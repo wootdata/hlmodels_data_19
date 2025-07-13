@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -67,6 +68,7 @@
 			"type": 8
 		}
 	],
+	"date": 954828280,
 	"events": [
 		{
 			"event": 2001,
@@ -246,7 +248,11 @@
 	],
 	"id": 1414743113,
 	"md5": "15942891b783f335e1525c7c4c1090cc",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "tfc/models/player/sniper/sniper.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

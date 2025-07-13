@@ -103,6 +103,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -161,6 +162,7 @@
 			"type": 8
 		}
 	],
+	"date": 1653246798,
 	"events": [
 		{
 			"event": 2001,
@@ -270,7 +272,11 @@
 	],
 	"id": 1414743113,
 	"md5": "62c6b732414407861436c3a311db4216",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "SP_Aqua_hatm_v2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
