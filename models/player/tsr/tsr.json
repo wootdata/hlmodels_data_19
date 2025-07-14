@@ -175,6 +175,7 @@
 	"md5": "5c4764a4bffad93b2fa8e2fdfa546426",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "player/Scream/Scream.mdl",
 	"preview": true,
 	"readme": false,

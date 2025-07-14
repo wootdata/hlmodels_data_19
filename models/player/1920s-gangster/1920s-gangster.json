@@ -250,6 +250,7 @@
 	"md5": "15942891b783f335e1525c7c4c1090cc",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "tfc/models/player/sniper/sniper.mdl",
 	"preview": false,
 	"readme": false,

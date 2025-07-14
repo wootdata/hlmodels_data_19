@@ -250,6 +250,7 @@
 	"md5": "6970b7ad0438e8bb35829dc688181e5c",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "tfc/models/player/medic/medic.mdl",
 	"preview": true,
 	"readme": false,

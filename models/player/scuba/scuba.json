@@ -175,6 +175,7 @@
 	"md5": "46766e1581c2267bc65b4f78daa1e6a9",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/scuba/scuba.mdl",
 	"preview": true,
 	"readme": false,

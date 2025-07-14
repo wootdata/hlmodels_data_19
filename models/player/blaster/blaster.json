@@ -175,6 +175,7 @@
 	"md5": "6d5c78988df1f5e98fe6fbd2be655c85",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/blaster/blaster.mdl",
 	"preview": false,
 	"readme": false,

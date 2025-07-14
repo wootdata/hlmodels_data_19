@@ -175,6 +175,7 @@
 	"md5": "5ac33b9c629b38fba77f3baba7e0c3bd",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "mymodels/worm/worm.mdl",
 	"preview": true,
 	"readme": false,
