@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sa_ryder
+Source Model Hash : ffee2372c8da8587330a09d2ba83ad94
+Source Model Date : 1480894880 (2016/12/04)
+
+Ported Model Name : sa_ryder_v1sc
+Ported Model Hash : 41aa7b2c95c0b9f7178a40fb94c578fe
+Ported Model Date : 1752492242 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : leon_rpd_re2
+Source Model Hash : 651b75519e1d3c6e89578ffce6c68242
+Source Model Date : 1693712093 (2023/09/02)
+
+Ported Model Name : leon_rpd_re2_v1sc
+Ported Model Hash : 7230fc7ada09335476d75aeb4c4cfcbc
+Ported Model Date : 1752491950 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : s8n_techno
+Source Model Hash : d0c43dce04b013c02a28ac03e14cb723
+Source Model Date : 1591139551 (2020/06/02)
+
+Ported Model Name : s8n_techno_v1sc
+Ported Model Hash : 8a274f64ec0f772a22f9235455224dca
+Ported Model Date : 1752492231 (2025/07/14)

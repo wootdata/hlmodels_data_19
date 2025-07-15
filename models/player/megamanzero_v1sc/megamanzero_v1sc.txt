@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : megamanzero
+Source Model Hash : 96ad9a021db0e77739ba7819b8437be7
+Source Model Date : 1743805900 (2025/04/04)
+
+Ported Model Name : megamanzero_v1sc
+Ported Model Hash : e3a60a32d84e02e627fd1ae9e091dd42
+Ported Model Date : 1752491999 (2025/07/14)

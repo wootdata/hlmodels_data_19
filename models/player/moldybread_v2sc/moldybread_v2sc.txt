@@ -1,0 +1,27 @@
+Moldybreads Player Model Credits
+
+Grunt Body - R@p70R
+Robotic Leg - Unknown
+Katana - The Specialists Team
+Knifes - Specialists Team
+Barney's Helmet - Ambient Impact
+Beretta - Condition Zero and Prowler for conversion
+
+Hope you enjoy my model heh
+
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : moldybread_v2
+Source Model Hash : dce0020e5d4e24eee511e2c91b25beb4
+Source Model Date : 1539899175 (2018/10/18)
+
+Ported Model Name : moldybread_v2sc
+Ported Model Hash : f3b032b9bce55b74a801889e4bcae6e2
+Ported Model Date : 1752492038 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : amy_sc4
+Source Model Hash : f54bd16188083b39a2518104586100ad
+Source Model Date : 1386967780 (2013/12/13)
+
+Ported Model Name : amy_sc4_v1sc
+Ported Model Hash : eae11a014712edf7c8b2e86240b474b9
+Ported Model Date : 1752491360 (2025/07/14)

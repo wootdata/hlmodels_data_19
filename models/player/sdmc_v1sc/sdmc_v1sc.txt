@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sdmc
+Source Model Hash : 337e023c2504fb38dca1a8b02d098d48
+Source Model Date : 1269847716 (2010/03/29)
+
+Ported Model Name : sdmc_v1sc
+Ported Model Hash : a6c8283d5f2d3e43e56dce2581277664
+Ported Model Date : 1752492255 (2025/07/14)

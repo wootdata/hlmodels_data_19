@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nya_czy_v2
+Source Model Hash : 4dfd9f7189ae68ef95a9545fdf221066
+Source Model Date : 1583805158 (2020/03/09)
+
+Ported Model Name : nya_czy_v2sc
+Ported Model Hash : c2bfedfd8ad0ff6b8c218269b9b352f9
+Ported Model Date : 1752492110 (2025/07/14)

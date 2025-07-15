@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : clsuit_gus
+Source Model Hash : e9d4b414285e9b1b94a85d1f973dec59
+Source Model Date : 1636840101 (2021/11/13)
+
+Ported Model Name : clsuit_gus_v1sc
+Ported Model Hash : f49436b746d1ebc6dcd48fe228c83d42
+Ported Model Date : 1752491484 (2025/07/14)

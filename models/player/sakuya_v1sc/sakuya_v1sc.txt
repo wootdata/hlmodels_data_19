@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sakuya
+Source Model Hash : 87673e65298ab1d7bcf2ae8d2d4e79bb
+Source Model Date : 1319635400 (2011/10/26)
+
+Ported Model Name : sakuya_v1sc
+Ported Model Hash : f99a6bc93265501fc73cf428ce4f3531
+Ported Model Date : 1752492233 (2025/07/14)

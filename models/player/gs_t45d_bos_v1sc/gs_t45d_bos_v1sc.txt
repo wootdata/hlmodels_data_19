@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gs_t45d_bos
+Source Model Hash : 7584dff8397bbda2193e7a893b52709f
+Source Model Date : 1457284813 (2016/03/06)
+
+Ported Model Name : gs_t45d_bos_v1sc
+Ported Model Hash : cef9b9f4fbb6666867d8926cb4f84b53
+Ported Model Date : 1752491753 (2025/07/14)

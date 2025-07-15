@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : para_signal2
+Source Model Hash : df5c8129f5fb070ce81dee936d6bf610
+Source Model Date : 1236727322 (2009/03/10)
+
+Ported Model Name : para_signal2_v1sc
+Ported Model Hash : 0e301948d8f2445a97ca72daf43c4766
+Ported Model Date : 1752492147 (2025/07/14)

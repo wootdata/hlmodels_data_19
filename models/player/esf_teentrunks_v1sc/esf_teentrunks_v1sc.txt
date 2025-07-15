@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : esf_teentrunks
+Source Model Hash : b95411d74ea32d72ff9deead3e56a049
+Source Model Date : 1427034912 (2015/03/22)
+
+Ported Model Name : esf_teentrunks_v1sc
+Ported Model Hash : 492987713a395f89419f52550cb70641
+Ported Model Date : 1752491638 (2025/07/14)

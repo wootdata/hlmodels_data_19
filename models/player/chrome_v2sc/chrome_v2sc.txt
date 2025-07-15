@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : chrome_v2
+Source Model Hash : b8f157dd0233b7f4b54197bc487d16f0
+Source Model Date : 1582977461 (2020/02/29)
+
+Ported Model Name : chrome_v2sc
+Ported Model Hash : cf796f9ed4ea0b9cb81cadd735a9d4d0
+Ported Model Date : 1752491474 (2025/07/14)

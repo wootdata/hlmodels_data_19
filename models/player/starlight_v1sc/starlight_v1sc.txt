@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : starlight
+Source Model Hash : 28e2cd3cc5b472dfd2f19a8c9a420794
+Source Model Date : 1583372939 (2020/03/04)
+
+Ported Model Name : starlight_v1sc
+Ported Model Hash : a534d48797260c48560a291dc542c9eb
+Ported Model Date : 1752492343 (2025/07/14)

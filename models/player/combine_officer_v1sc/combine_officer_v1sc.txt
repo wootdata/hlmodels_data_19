@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : combine_officer
+Source Model Hash : 51dc608f2cf723ca06ae7cea487ecdbc
+Source Model Date : 1505444709 (2017/09/14)
+
+Ported Model Name : combine_officer_v1sc
+Ported Model Hash : cc747f71bd222b7bff0011f6de219e93
+Ported Model Date : 1752491513 (2025/07/14)

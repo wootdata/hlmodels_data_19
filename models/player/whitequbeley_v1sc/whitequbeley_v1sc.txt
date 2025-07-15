@@ -1,0 +1,18 @@
+WHITEQUBELEY
+
+Model :  FantasyFT
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : whitequbeley
+Source Model Hash : ca64d2a1e24e521d31624cf1e67ad09d
+Source Model Date : 1491737851 (2017/04/09)
+
+Ported Model Name : whitequbeley_v1sc
+Ported Model Hash : c2eaad05528bf6da1765e465a0c6c3a4
+Ported Model Date : 1752492508 (2025/07/14)

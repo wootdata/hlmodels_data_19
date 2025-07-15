@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hoe_mikeforce_medic1
+Source Model Hash : d71a3970950e51d1fd3b7c9c387dc7c7
+Source Model Date : 1236541402 (2009/03/08)
+
+Ported Model Name : hoe_mikef_medic1_v1sc
+Ported Model Hash : ad6a73d8d7dc719634fd486f6f521f76
+Ported Model Date : 1752491811 (2025/07/14)

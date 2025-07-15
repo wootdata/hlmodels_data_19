@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : thegibman
+Source Model Hash : be6f0271660e7a44c40382851fd4dd98
+Source Model Date : 1482673569 (2016/12/25)
+
+Ported Model Name : thegibman_v1sc
+Ported Model Hash : 1d9a1ef3cc6110e2e1f6834592a04f7b
+Ported Model Date : 1752492410 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : technician_v2
+Source Model Hash : c2da41562430f5b3f3c6b27f1a9ee2f4
+Source Model Date : 1523901076 (2018/04/16)
+
+Ported Model Name : technician_v2sc
+Ported Model Hash : f9d3425f40a96a5c0a350a640a5918cf
+Ported Model Date : 1752492398 (2025/07/14)

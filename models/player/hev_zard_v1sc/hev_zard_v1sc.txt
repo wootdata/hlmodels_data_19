@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hev_zard
+Source Model Hash : c29dcda2bd717a8cc08b64d8558d3a68
+Source Model Date : 1651857622 (2022/05/06)
+
+Ported Model Name : hev_zard_v1sc
+Ported Model Hash : 01571a036c10b2fee410fae09ba978df
+Ported Model Date : 1752491791 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mh_cash
+Source Model Hash : 69c554d53dd5f3af6be15e7a368476fe
+Source Model Date : 1739436476 (2025/02/13)
+
+Ported Model Name : mh_cash_v1sc
+Ported Model Hash : 2e857a9eba03de58f8ccbd18401e4456
+Ported Model Date : 1752492014 (2025/07/14)

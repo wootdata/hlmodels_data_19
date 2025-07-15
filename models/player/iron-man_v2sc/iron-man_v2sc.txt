@@ -1,0 +1,39 @@
+
+Iron-Man_README.txt			12:10 16 Nov99
+
+This model is based on the character Iron-Man, from Marvel Comics. 
+
+Created with Chumbalum Soft's Milkshape 3D and wouldn't have been possible without Scarecrow's tutorials from Coldfusion.
+
+#vertices:     501
+#triangles:    915
+#groups:      3
+#bones:       40
+#materials:   3
+sgroups:       1
+
+Iron-Man and his likeness are the creations Marvel Comics.
+
+To use this model for Half-Life simply create a new folder named 'Iron-Man' (NO QUOTES!) in: 
+...\Half-Life\valve\models\player\...
+Un-zip the Iron-Man.mdl and .bmps into the new Iron-Man folder.
+
+Iron-Man also uses the chrome effect in half-life. 
+
+k_vandorn
+kvandorn@kupperparker.com
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : iron-man_v2
+Source Model Hash : b4c3be9c389a7ef332acb22b4974f37e
+Source Model Date : 1583275850 (2020/03/03)
+
+Ported Model Name : iron-man_v2sc
+Ported Model Hash : 69b226c3f5654925eba6b3d6e1bda907
+Ported Model Date : 1752491851 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : akiba_rin_under
+Source Model Hash : b24163c22d62044cac371580125d054f
+Source Model Date : 1599187691 (2020/09/03)
+
+Ported Model Name : akiba_rin_under_v1sc
+Ported Model Hash : a45c3d75280e8cad57eedf7013ebd64b
+Ported Model Date : 1752491350 (2025/07/14)

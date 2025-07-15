@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : onyx
+Source Model Hash : 4bcd1cca422b81946809cdfd26fb7575
+Source Model Date : 1264758292 (2010/01/29)
+
+Ported Model Name : onyx_v1sc
+Ported Model Hash : c21adad0539d874208ac7c3d04dc6d9a
+Ported Model Date : 1752492117 (2025/07/14)

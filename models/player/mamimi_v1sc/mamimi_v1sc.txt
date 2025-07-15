@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mamimi
+Source Model Hash : b76dca63964ef58c142c468bb926786b
+Source Model Date : 1266054403 (2010/02/13)
+
+Ported Model Name : mamimi_v1sc
+Ported Model Hash : be173e8c037ae22e081b9eaa566080e4
+Ported Model Date : 1752491983 (2025/07/14)

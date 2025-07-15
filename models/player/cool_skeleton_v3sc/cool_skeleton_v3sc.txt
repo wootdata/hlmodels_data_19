@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cool_skeleton_v3
+Source Model Hash : fe9500f839a1c0dd21eba76b73fba916
+Source Model Date : 1716232452 (2024/05/20)
+
+Ported Model Name : cool_skeleton_v3sc
+Ported Model Hash : 7a33765ca52ad5549839747b49d1513f
+Ported Model Date : 1752491527 (2025/07/14)

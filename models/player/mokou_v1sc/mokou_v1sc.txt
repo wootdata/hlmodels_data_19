@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mokou
+Source Model Hash : 765361da0902074e735a7de7554193ca
+Source Model Date : 1411828564 (2014/09/27)
+
+Ported Model Name : mokou_v1sc
+Ported Model Hash : e0f27b9841d7a88d670ffd71d326374e
+Ported Model Date : 1752492038 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : rvi_gordon
+Source Model Hash : 460affcd85df7c3f0cc55de628b4f02f
+Source Model Date : 1649646580 (2022/04/10)
+
+Ported Model Name : rvi_gordon_v1sc
+Ported Model Hash : fb310cbd71cb3ee200aab7d80e4221f8
+Ported Model Date : 1752492227 (2025/07/14)

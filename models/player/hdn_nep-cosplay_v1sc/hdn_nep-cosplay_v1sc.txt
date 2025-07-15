@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hdn_neppugya-cosplay
+Source Model Hash : 590e4877eea237e5390cc4cf3d68ce00
+Source Model Date : 1543540426 (2018/11/29)
+
+Ported Model Name : hdn_nep-cosplay_v1sc
+Ported Model Hash : a614063583891926972451bbc3bc4ba7
+Ported Model Date : 1752491776 (2025/07/14)

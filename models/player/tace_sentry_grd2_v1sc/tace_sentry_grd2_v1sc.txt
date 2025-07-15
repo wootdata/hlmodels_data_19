@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ta_c_e_sentry_guard2
+Source Model Hash : 717260d22acbe5691a0d08d5240e5761
+Source Model Date : 1630954871 (2021/09/06)
+
+Ported Model Name : tace_sentry_grd2_v1sc
+Ported Model Hash : c1af2a2547e728b0f024fd6acdf6a9ae
+Ported Model Date : 1752492374 (2025/07/14)

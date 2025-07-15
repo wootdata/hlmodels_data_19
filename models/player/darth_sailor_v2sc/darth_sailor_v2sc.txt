@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : darth_sailor_v2
+Source Model Hash : b233e141764186e2151cb7ded23104a9
+Source Model Date : 1583566032 (2020/03/06)
+
+Ported Model Name : darth_sailor_v2sc
+Ported Model Hash : df2906ddecc5fdb4ffdc571d71941705
+Ported Model Date : 1752491581 (2025/07/14)

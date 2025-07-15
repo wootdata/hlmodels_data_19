@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : pd_dallas
+Source Model Hash : 5e90407eb23fc7cbe08fa4f6e9670336
+Source Model Date : 1654719591 (2022/06/08)
+
+Ported Model Name : pd_dallas_v1sc
+Ported Model Hash : 6363790657ac35174e149d1535de50d8
+Ported Model Date : 1752492150 (2025/07/14)

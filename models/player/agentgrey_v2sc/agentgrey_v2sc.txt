@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : agentgrey_v2
+Source Model Hash : 766020ac24db852c928abc01d30f6482
+Source Model Date : 1583750097 (2020/03/09)
+
+Ported Model Name : agentgrey_v2sc
+Ported Model Hash : c75a3fe8190f700d1a1536380d81e7c3
+Ported Model Date : 1752491338 (2025/07/14)

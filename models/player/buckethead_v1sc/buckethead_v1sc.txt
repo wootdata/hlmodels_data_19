@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : buckethead
+Source Model Hash : 689b2c51451a40e881794d0e20dd4e3d
+Source Model Date : 1454614814 (2016/02/04)
+
+Ported Model Name : buckethead_v1sc
+Ported Model Hash : a5457d13076dcd7d04e0d27cfc56823b
+Ported Model Date : 1752491452 (2025/07/14)

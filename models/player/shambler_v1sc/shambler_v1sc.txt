@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : shambler
+Source Model Hash : 591353db08e7fe841345ab3181f85107
+Source Model Date : 1269853425 (2010/03/29)
+
+Ported Model Name : shambler_v1sc
+Ported Model Hash : 387f51c2d3bcedc1132aaec9025cc82b
+Ported Model Date : 1752492265 (2025/07/14)

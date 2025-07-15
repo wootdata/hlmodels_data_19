@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ctf_tank
+Source Model Hash : 37b28560986c9deaa228391aeaab4a47
+Source Model Date : 1549733630 (2019/02/09)
+
+Ported Model Name : ctf_tank_v1sc
+Ported Model Hash : 9bd5e76881f46075be935ab387338315
+Ported Model Date : 1752491568 (2025/07/14)

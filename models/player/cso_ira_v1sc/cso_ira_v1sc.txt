@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cso_ira
+Source Model Hash : 430f74f1fbd5cd26f55324e29e2e03b8
+Source Model Date : 1230999066 (2009/01/03)
+
+Ported Model Name : cso_ira_v1sc
+Ported Model Hash : d66ef5731f869de77df5bfc13108aa1e
+Ported Model Date : 1752491554 (2025/07/14)

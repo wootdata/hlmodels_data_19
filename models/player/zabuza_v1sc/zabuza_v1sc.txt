@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : zabuza
+Source Model Hash : 4d835c2a12f5c2c7956d73bef1b3fc80
+Source Model Date : 1264536120 (2010/01/26)
+
+Ported Model Name : zabuza_v1sc
+Ported Model Hash : 4a1eb2414cc9e9fba6f784359c3f48db
+Ported Model Date : 1752492526 (2025/07/14)

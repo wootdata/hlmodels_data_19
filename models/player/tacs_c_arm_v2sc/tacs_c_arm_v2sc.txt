@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ta_c_s_color_armor_v2
+Source Model Hash : 41786c21a2e65bfd6f3fd5d6d55c4d16
+Source Model Date : 1661806316 (2022/08/29)
+
+Ported Model Name : tacs_c_arm_v2sc
+Ported Model Hash : df45bd21ad29fe84fed5b6c5c26beb9f
+Ported Model Date : 1752492386 (2025/07/14)

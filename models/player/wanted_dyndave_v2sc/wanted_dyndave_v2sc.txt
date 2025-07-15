@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : wanted_dyndave_v2
+Source Model Hash : 11454baa0ce4c5c11be2d0164dd81a41
+Source Model Date : 1528090923 (2018/06/03)
+
+Ported Model Name : wanted_dyndave_v2sc
+Ported Model Hash : 91fe0ffe3a7b40a279b80ad8f38f3e55
+Ported Model Date : 1752492502 (2025/07/14)

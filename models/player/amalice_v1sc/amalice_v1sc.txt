@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : amalice
+Source Model Hash : e32c1737cb5ef7caa8ef0939f86c2ef3
+Source Model Date : 1632704224 (2021/09/26)
+
+Ported Model Name : amalice_v1sc
+Ported Model Hash : b3812843513273e9d700ef181eeb20cf
+Ported Model Date : 1752491359 (2025/07/14)

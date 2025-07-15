@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : phoenix
+Source Model Hash : ace86f528226379f0b2f0835b8df98d7
+Source Model Date : 1231871392 (2009/01/13)
+
+Ported Model Name : phoenix_v1sc
+Ported Model Hash : 292c655058b657d6f574679e1c952e8c
+Ported Model Date : 1752492155 (2025/07/14)

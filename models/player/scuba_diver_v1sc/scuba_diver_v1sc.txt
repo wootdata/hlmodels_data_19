@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : scuba_diver
+Source Model Hash : ff987941b8e8d5672f9c77a2032586aa
+Source Model Date : 1500481362 (2017/07/19)
+
+Ported Model Name : scuba_diver_v1sc
+Ported Model Hash : c1c04e0962c5e26b2fc1ef0ac76de34e
+Ported Model Date : 1752492250 (2025/07/14)

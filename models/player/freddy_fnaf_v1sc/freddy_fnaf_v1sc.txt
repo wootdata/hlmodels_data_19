@@ -1,0 +1,17 @@
+Credit:
+http://davidsaiyan.blogspot.jp/
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : freddy_fnaf
+Source Model Hash : 4764fceb5921d8c28d35adbeaef2d14c
+Source Model Date : 1441773084 (2015/09/08)
+
+Ported Model Name : freddy_fnaf_v1sc
+Ported Model Hash : f18a09430e31a25707e8a031f8c6eea8
+Ported Model Date : 1752491661 (2025/07/14)

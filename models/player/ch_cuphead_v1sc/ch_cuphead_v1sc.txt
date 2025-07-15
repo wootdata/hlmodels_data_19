@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ch_cuphead
+Source Model Hash : 439f3e4e86a6c9fcc85ac5bdce6042b2
+Source Model Date : 1508622342 (2017/10/21)
+
+Ported Model Name : ch_cuphead_v1sc
+Ported Model Hash : 214b078543f93c154f741c0ee956fd5f
+Ported Model Date : 1752491475 (2025/07/14)

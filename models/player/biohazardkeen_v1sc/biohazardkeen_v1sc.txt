@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : biohazardkeen
+Source Model Hash : 37dc77d1ee992174c6f5ee9dd3992812
+Source Model Date : 1470775146 (2016/08/09)
+
+Ported Model Name : biohazardkeen_v1sc
+Ported Model Hash : ad2a0926b7b4ad84fe621ef7f552c05f
+Ported Model Date : 1752491430 (2025/07/14)

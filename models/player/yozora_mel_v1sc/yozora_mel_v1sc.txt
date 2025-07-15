@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : yozora_mel
+Source Model Hash : 71f8a59a44a3b4d1c20aa1414f2db1a7
+Source Model Date : 1678873030 (2023/03/15)
+
+Ported Model Name : yozora_mel_v1sc
+Ported Model Hash : cd955b2d371a444c11a80ea06222da55
+Ported Model Date : 1752492523 (2025/07/14)

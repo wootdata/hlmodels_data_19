@@ -1,0 +1,16 @@
+Converted for Sven-coop 5.0 by Python.
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : assassin2
+Source Model Hash : 3f97d136a4f9fecf29513ca7b4ef90fc
+Source Model Date : 1509916474 (2017/11/05)
+
+Ported Model Name : assassin2_v1sc
+Ported Model Hash : b2ac811db30be6d4c727f734f3e8bbda
+Ported Model Date : 1752491380 (2025/07/14)

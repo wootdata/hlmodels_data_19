@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : superalphashadow
+Source Model Hash : c8b15bfc3bcf6284ed3ad87fa5879bda
+Source Model Date : 1269965008 (2010/03/30)
+
+Ported Model Name : superalphashadow_v1sc
+Ported Model Hash : aa8170c1b87834f0f08553b260046ad6
+Ported Model Date : 1752492350 (2025/07/14)

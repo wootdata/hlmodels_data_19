@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : schoolgirl
+Source Model Hash : b12ab4b66c5a66d217fafc794573cec6
+Source Model Date : 1269799571 (2010/03/28)
+
+Ported Model Name : schoolgirl_v1sc
+Ported Model Hash : bcac2d0a65fc44af064e53791278eb0f
+Ported Model Date : 1752492245 (2025/07/14)

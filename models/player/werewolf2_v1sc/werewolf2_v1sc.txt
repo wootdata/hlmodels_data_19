@@ -1,0 +1,21 @@
+Converted from
+The Elder Scrolls 3: Bloodmoon
+Copyright (c) Bethesda Softworks
+by ~X~
+
+For X-Half-Life: Deathmatch 3.0.3.1
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : werewolf2
+Source Model Hash : 7aabd57ce523acf98801657a8e897272
+Source Model Date : 1582890649 (2020/02/28)
+
+Ported Model Name : werewolf2_v1sc
+Ported Model Hash : cc387867ad47a4481724fa4115d98bb6
+Ported Model Date : 1752492505 (2025/07/14)

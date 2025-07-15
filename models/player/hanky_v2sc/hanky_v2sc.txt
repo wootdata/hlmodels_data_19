@@ -1,0 +1,37 @@
+Mr. Hankey (South Park) -  Half-Life character  -  readme.txt
+March 22, 1999
+--------------------------------
+Character Stats:
+polys		272
+verts		194
+texture		256x256x256
+chrome		NO
+animation	Half-Life
+--------------------------------
+Character Info:
+This character is based on the turd
+from the South Park tv show.  Studio Max
+took a dump and this waz the result.
+It's done.
+WHATA RELIEF!!! Damn laxitive!
+--------------------------------
+
+Edwin Reck	
+ereck@inlandprod.com
+http://www.inlandprod.com
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hanky_v2
+Source Model Hash : cd7c76966abbb418358d6c55a2cb7e40
+Source Model Date : 1590782024 (2020/05/29)
+
+Ported Model Name : hanky_v2sc
+Ported Model Hash : 8b74f04150d89e2e0c6c577d0c61dcbe
+Ported Model Date : 1752491767 (2025/07/14)

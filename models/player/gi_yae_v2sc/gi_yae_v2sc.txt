@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gi_yae_v2
+Source Model Hash : 70a6ac1f181cd750a2ba23a1be11dafa
+Source Model Date : 1701347000 (2023/11/30)
+
+Ported Model Name : gi_yae_v2sc
+Ported Model Hash : a9b41b80d3cf9991b089e69efc77732f
+Ported Model Date : 1752491726 (2025/07/14)

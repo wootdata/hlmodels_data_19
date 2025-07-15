@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sci_cleansuit
+Source Model Hash : 7069704021e98aa4d109cf7a631e51b4
+Source Model Date : 1456437874 (2016/02/25)
+
+Ported Model Name : sci_cleansuit_v1sc
+Ported Model Hash : 7265b519a4033e2eebc722c92668b5de
+Ported Model Date : 1752492247 (2025/07/14)

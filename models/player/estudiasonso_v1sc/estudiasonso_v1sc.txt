@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : estudiasonso
+Source Model Hash : e19373b4d697a49ae8179a3d52035125
+Source Model Date : 1640120712 (2021/12/21)
+
+Ported Model Name : estudiasonso_v1sc
+Ported Model Hash : c81fa704025a11f91a83588c63a2b9e0
+Ported Model Date : 1752491638 (2025/07/14)

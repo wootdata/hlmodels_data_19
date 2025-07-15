@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dragon2
+Source Model Hash : e9a1470280b44f2b22462dd4c4dd7e99
+Source Model Date : 1672093141 (2022/12/26)
+
+Ported Model Name : dragon2_v1sc
+Ported Model Hash : 2e732b9c4e644ec674d3125d9857af81
+Ported Model Date : 1752491621 (2025/07/14)

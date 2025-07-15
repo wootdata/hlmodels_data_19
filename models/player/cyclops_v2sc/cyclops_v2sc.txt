@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cyclops_v2
+Source Model Hash : 13e5a4965e96c089a48f391a42e7c5fb
+Source Model Date : 1583566569 (2020/03/06)
+
+Ported Model Name : cyclops_v2sc
+Ported Model Hash : f6774edcd15916cbb9da97dd46145e39
+Ported Model Date : 1752491574 (2025/07/14)

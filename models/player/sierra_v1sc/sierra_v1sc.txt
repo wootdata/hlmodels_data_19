@@ -1,0 +1,25 @@
+Skin painted by: TORMENTUS
+Skin Name: Valve
+e-mail:  Tormentus@btinternet.com or Tormentus@deadfishclan.fsnet.co.uk
+
+I wanted something special for the members of my mailing list (can be found 
+on my website @ http://w3.to/tormentus) so i did these skins. They were 
+inspired by my mate BigMeanie. So here they are my skins hopefully these
+ skins will make people take me seriously. Maybe ill be famous cos of these!  
+   
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sierra
+Source Model Hash : b2c9487133dc1c5254a31c70702c599f
+Source Model Date : 1591340157 (2020/06/04)
+
+Ported Model Name : sierra_v1sc
+Ported Model Hash : 89a9e2ad0a2ba606407bf65a16a98386
+Ported Model Date : 1752492275 (2025/07/14)

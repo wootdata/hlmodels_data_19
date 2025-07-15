@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : toon_urban
+Source Model Hash : 87ebd7f367f6791dae4dfee167c32a7b
+Source Model Date : 1240097180 (2009/04/18)
+
+Ported Model Name : toon_urban_v1sc
+Ported Model Hash : 635d36b29f2625ddf2d8e673e3742419
+Ported Model Date : 1752492431 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lil_gordan
+Source Model Hash : 2223ee44dae1bace43323f9a7c09262d
+Source Model Date : 1264017979 (2010/01/20)
+
+Ported Model Name : lil_gordan_v1sc
+Ported Model Hash : f9f89b2d71da5c01a91108390acd7e4d
+Ported Model Date : 1752491952 (2025/07/14)

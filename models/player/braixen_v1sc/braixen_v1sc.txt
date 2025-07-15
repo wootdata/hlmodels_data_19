@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : braixen
+Source Model Hash : 76f662b093e9f6d5842db25e530bb0db
+Source Model Date : 1658802104 (2022/07/25)
+
+Ported Model Name : braixen_v1sc
+Ported Model Hash : 6f60281dde568095a29b5dcb6c276a7a
+Ported Model Date : 1752491446 (2025/07/14)

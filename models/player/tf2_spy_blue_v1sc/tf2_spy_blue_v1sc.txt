@@ -1,0 +1,41 @@
+XenoAisam
+Romka
+Lt C
+Nirrti
+Mosquito
+Gmod4Ever
+Aeon
+peterboi
+tunderera
+Moi
+ShoTGuNGuY49
+calle7113
+Patrik "DoktorAce" Liljecratz
+Sven co-op 2 team
+CosmicBreak
+CyberStep, Inc.
+Animasa
+Team Ruchiru
+Master circuit
+chiyoki
+Sam Za Nemesis
+M4xf1v3
+Renard
+SHL Team
+VALVe
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tf2_spy_blue
+Source Model Hash : 72927b4945caf652af072714e89a6af5
+Source Model Date : 1459395679 (2016/03/30)
+
+Ported Model Name : tf2_spy_blue_v1sc
+Ported Model Hash : 977bd0e49f35e7d5b2bcfce9025fbd98
+Ported Model Date : 1752492407 (2025/07/14)

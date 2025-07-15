@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dbztrunks
+Source Model Hash : 5fb29d7c7d1e4c39736ef0f5e787fed3
+Source Model Date : 1266844072 (2010/02/22)
+
+Ported Model Name : dbztrunks_v1sc
+Ported Model Hash : 72e96e5fbff1838efad6e73317b60fe6
+Ported Model Date : 1752491590 (2025/07/14)

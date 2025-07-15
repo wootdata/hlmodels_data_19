@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hansolo
+Source Model Hash : a0cd59e2d63a700ef1e48fe85e635876
+Source Model Date : 1268804169 (2010/03/16)
+
+Ported Model Name : hansolo_v1sc
+Ported Model Hash : 1e6b9b59abf3f2a840f2ad63a5a3e9af
+Ported Model Date : 1752491768 (2025/07/14)

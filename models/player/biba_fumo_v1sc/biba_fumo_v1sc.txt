@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : biba_fumo
+Source Model Hash : 0d7f3abfe32273e65bd3c4e0b3522764
+Source Model Date : 1658166076 (2022/07/18)
+
+Ported Model Name : biba_fumo_v1sc
+Ported Model Hash : e1c032ce244e5418079e4b355b551a66
+Ported Model Date : 1752491426 (2025/07/14)

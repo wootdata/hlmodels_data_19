@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lol_jinx_alt
+Source Model Hash : 5ce17129889812772a598734ae5667bf
+Source Model Date : 1733360782 (2024/12/04)
+
+Ported Model Name : lol_jinx_alt_v1sc
+Ported Model Hash : dec24246afb0b734b057fea76eac9958
+Ported Model Date : 1752491960 (2025/07/14)

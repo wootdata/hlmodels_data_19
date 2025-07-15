@@ -1,0 +1,17 @@
+made_by_winkler
+The Specialists mod
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sfa_krystal
+Source Model Hash : a8a65f0d51e0ac18f254e37613c3ea7d
+Source Model Date : 1465827724 (2016/06/13)
+
+Ported Model Name : sfa_krystal_v1sc
+Ported Model Hash : 4a40b7675e7c88b3fed778f3ed3849d0
+Ported Model Date : 1752492260 (2025/07/14)

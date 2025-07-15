@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : voidleak
+Source Model Hash : f811134f2198ece22b535f75fb48b10e
+Source Model Date : 1702942650 (2023/12/18)
+
+Ported Model Name : voidleak_v1sc
+Ported Model Hash : 8d123de190cda3fad3f351c04b9fd074
+Ported Model Date : 1752492496 (2025/07/14)

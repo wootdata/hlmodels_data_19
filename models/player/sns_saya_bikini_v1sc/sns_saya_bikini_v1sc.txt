@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sns_saya_bikini
+Source Model Hash : e1d089f5af795afbb8f799f6c59b4fd4
+Source Model Date : 1716112934 (2024/05/19)
+
+Ported Model Name : sns_saya_bikini_v1sc
+Ported Model Hash : bef540a05f4c3f6fabf5248afad8f0a2
+Ported Model Date : 1752492287 (2025/07/14)

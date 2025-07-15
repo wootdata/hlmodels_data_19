@@ -1,0 +1,19 @@
+Banana Dancer
+original model by Banana Boy
+Optimized and ported to HL by ~X~
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bananadancer_v2
+Source Model Hash : 942fc61e4364657f11fe37882fa6cc51
+Source Model Date : 1590726980 (2020/05/28)
+
+Ported Model Name : bananadancer_v2sc
+Ported Model Hash : d889a7760a4c125a1f8a3e39faeaf283
+Ported Model Date : 1752491400 (2025/07/14)

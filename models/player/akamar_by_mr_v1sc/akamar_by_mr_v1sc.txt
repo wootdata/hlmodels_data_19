@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : akamar_by_mr
+Source Model Hash : d1aebe3cc89a91319480026e5d800dc4
+Source Model Date : 1597881817 (2020/08/19)
+
+Ported Model Name : akamar_by_mr_v1sc
+Ported Model Hash : 506d636850cfa2eb96ad34dbd594b4d9
+Ported Model Date : 1752491349 (2025/07/14)

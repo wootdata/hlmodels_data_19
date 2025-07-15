@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dmz_vegeta
+Source Model Hash : c40102a8f1b1053555549703c046f5fe
+Source Model Date : 1237589310 (2009/03/20)
+
+Ported Model Name : dmz_vegeta_v1sc
+Ported Model Hash : 1181592d64008da1895be743e32658a2
+Ported Model Date : 1752491605 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : keine
+Source Model Hash : 2118cbb20501650e8dcad22fffa8f529
+Source Model Date : 1458602670 (2016/03/21)
+
+Ported Model Name : keine_v1sc
+Ported Model Hash : 46d6e1c8021a11863be6bfe86fd51647
+Ported Model Date : 1752491880 (2025/07/14)

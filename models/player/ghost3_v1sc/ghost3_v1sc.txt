@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ghost3
+Source Model Hash : 2588a89fe2295f15058553957899f76d
+Source Model Date : 1698648752 (2023/10/29)
+
+Ported Model Name : ghost3_v1sc
+Ported Model Hash : a9b4bc020ab874d5cf17d24c7fd8d988
+Ported Model Date : 1752491698 (2025/07/14)

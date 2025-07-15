@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : b2opheliab
+Source Model Hash : f99ba29322055673e19f946d4cc2b87e
+Source Model Date : 1615538654 (2021/03/12)
+
+Ported Model Name : b2opheliab_v1sc
+Ported Model Hash : f673f774e8f706a74a83602a60793e99
+Ported Model Date : 1752491395 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : jessie
+Source Model Hash : 9fba79517da5fe54bf169a491f1c4701
+Source Model Date : 1263925036 (2010/01/19)
+
+Ported Model Name : jessie_v1sc
+Ported Model Hash : 5da4a8ec6a5611858e21fe41a37617f7
+Ported Model Date : 1752491860 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : rangers_v2
+Source Model Hash : 256cecaa653cd6ee858b0466368dba9e
+Source Model Date : 1591055265 (2020/06/01)
+
+Ported Model Name : rangers_v2sc
+Ported Model Hash : abe1ff1aa41d6080ca403b761158d42e
+Ported Model Date : 1752492186 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : th_protagonist
+Source Model Hash : 7fcf505ed0f0cd3a4c863020ee059932
+Source Model Date : 1479157788 (2016/11/14)
+
+Ported Model Name : th_protagonist_v1sc
+Ported Model Hash : 0f860cdc443bf9017aca299ec9a06af4
+Ported Model Date : 1752492420 (2025/07/14)

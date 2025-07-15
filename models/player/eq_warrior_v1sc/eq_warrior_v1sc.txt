@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : eq_warrior
+Source Model Hash : 4e0f7baef9ce1561fcb2b3beef293539
+Source Model Date : 1632051716 (2021/09/19)
+
+Ported Model Name : eq_warrior_v1sc
+Ported Model Hash : cd899d5586f8dd8d8a479d40bfa2360a
+Ported Model Date : 1752491636 (2025/07/14)

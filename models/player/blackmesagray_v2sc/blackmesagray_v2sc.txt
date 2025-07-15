@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : blackmesagray_v2
+Source Model Hash : df7135eb260cd6f272b623c6f807b265
+Source Model Date : 1590562266 (2020/05/26)
+
+Ported Model Name : blackmesagray_v2sc
+Ported Model Hash : b7beed8d701e4c3d15c62750c7ae9790
+Ported Model Date : 1752491433 (2025/07/14)

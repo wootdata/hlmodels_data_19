@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : otisphere
+Source Model Hash : 0a5c9fb0ff2522b9678f18be098d60fe
+Source Model Date : 1673760416 (2023/01/14)
+
+Ported Model Name : otisphere_v1sc
+Ported Model Hash : 0ead1b4c08b7ef39b727c972a56d0ce2
+Ported Model Date : 1752492134 (2025/07/14)

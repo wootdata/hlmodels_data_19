@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bender_hd
+Source Model Hash : 72c69f99201d9e429ea323206ed65338
+Source Model Date : 1267798772 (2010/03/05)
+
+Ported Model Name : bender_hd_v1sc
+Ported Model Hash : dd9430ac3e12b8d85a4daa81b482091b
+Ported Model Date : 1752491424 (2025/07/14)

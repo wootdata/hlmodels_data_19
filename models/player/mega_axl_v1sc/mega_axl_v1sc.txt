@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mega_axl
+Source Model Hash : 7558b546e33744c2f7d743dd15523e76
+Source Model Date : 1476146194 (2016/10/10)
+
+Ported Model Name : mega_axl_v1sc
+Ported Model Hash : db9e200cb4e50634095648080ac01872
+Ported Model Date : 1752491999 (2025/07/14)

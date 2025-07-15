@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : antauro
+Source Model Hash : 0ea08b1d6b8f287e7bbbb78ca8cf4a7d
+Source Model Date : 1661203496 (2022/08/22)
+
+Ported Model Name : antauro_v1sc
+Ported Model Hash : ae1cfb4a556abd6cbdda1fa51bfcfb84
+Ported Model Date : 1752491363 (2025/07/14)

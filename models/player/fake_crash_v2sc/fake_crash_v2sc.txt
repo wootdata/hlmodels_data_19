@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : fake_crash_v2
+Source Model Hash : c2a6b208570c9db640e41cd8489fabc9
+Source Model Date : 1695752933 (2023/09/26)
+
+Ported Model Name : fake_crash_v2sc
+Ported Model Hash : cc47211cef3957d1035062d4e49f5541
+Ported Model Date : 1752491643 (2025/07/14)

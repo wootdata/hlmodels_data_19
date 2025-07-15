@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ct_horse
+Source Model Hash : 30143b989b65a5da204d1a59d8ec718f
+Source Model Date : 1689728497 (2023/07/18)
+
+Ported Model Name : ct_horse_v1sc
+Ported Model Hash : baca5400952730dea4df53b5a299bab2
+Ported Model Date : 1752491568 (2025/07/14)

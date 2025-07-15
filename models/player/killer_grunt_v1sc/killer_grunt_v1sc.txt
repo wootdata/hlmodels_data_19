@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : killer_grunt
+Source Model Hash : c8ab2d187efb066c9247c88be42c573e
+Source Model Date : 1750968552 (2025/06/26)
+
+Ported Model Name : killer_grunt_v1sc
+Ported Model Hash : 5cff914ad7718c564e233f1f7e40a473
+Ported Model Date : 1752491890 (2025/07/14)

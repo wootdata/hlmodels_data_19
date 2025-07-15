@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mka_sub-zero
+Source Model Hash : 9cecba12187796af260c7ba5784a85bd
+Source Model Date : 1736345231 (2025/01/08)
+
+Ported Model Name : mka_sub-zero_v1sc
+Ported Model Hash : 511191b54b519ada9ec79114af786ba5
+Ported Model Date : 1752492032 (2025/07/14)

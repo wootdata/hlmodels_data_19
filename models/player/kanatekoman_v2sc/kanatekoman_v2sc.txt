@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kanatekoman_v2
+Source Model Hash : 274e6f5838110fc7b658577ab20b7bc3
+Source Model Date : 1522204644 (2018/03/27)
+
+Ported Model Name : kanatekoman_v2sc
+Ported Model Hash : ed305d151391bbe59a34169fa177d883
+Ported Model Date : 1752491869 (2025/07/14)
