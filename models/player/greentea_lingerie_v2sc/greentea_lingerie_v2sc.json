@@ -258,7 +258,7 @@
 			"type": 8
 		}
 	],
-	"date": 1758223618,
+	"date": 1758225746,
 	"events": [
 		{
 			"event": 5004,
@@ -911,8 +911,8 @@
 	"metahook_ragdoll": false,
 	"modid": 0,
 	"name": "Greentea_lingerie.mdl",
-	"preview": false,
-	"readme": false,
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{
