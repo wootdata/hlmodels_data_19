@@ -1,0 +1,19 @@
+Ironman 1.0, 1.0b
+
+This is 2 skins based on The gordon model
+(I have to learn 3d studio) Its basicly the
+first ironman is created by me from hand
+the second one (War machine)is cut piece by
+ piece from a picture I found while browsing. 
+I was tired of seeing users wait for the skin
+to be made by someone else, personelly, I dont
+follow the ironman series. But I Try to make a
+skin for everybody.
+
+to install create 2  (yes 2 dirs) called ironman1 and ironman2 in 
+your player dir.  then copy the indivisual files into each, and 
+have fun. 
+
+Darkwolfdkk@hotmail.com	
+These files are freeware, but if added to a cdrom. I just want a copy :)
+

@@ -1,0 +1,86 @@
+-----------------------------------------------------------------
+|******KazeXtreme's MMZ Model Pak 1 for Counter-Strike 6.x******|
+-----------------------------------------------------------------
+
+Model / Textures - Daniel "KazeXtreme" Fields
+Copyright 2000 Daniel "KazeXtreme" Fields
+
+website : http://home.mindspring.com/~kazeextreme/
+email : kazeextreme@mindspring.com
+
+******KazeXtreme's MMZ Model Pak 1******
+
+As a tribute to my Counter-Strike team Monkeys, Midgets & Zombies (currently #4 on OGL ladder)
+
+All models are named after who they depict. Please send any comments you like to spitfire@dim.com
+
+All models were based off the artwork from LordCheez located at http://www.mmz.org
+
+I am quite proud of the work I have done on these so any praise you send my way will be greatly appreciated
+
+--------------------------------------------------
+| MODELS INCLUDED IN THE MODEL PAK 1             |
+--------------------------------------------------
+
+.MMZ CHICKENCHUCKER
+.MMZ DNA
+.MMZ FOOB
+.MMZ ION  (ARCTIC MODEL WITH ION SKIN)
+.MMZ ION2 (REAL MODEL)
+.MMZ LAFNBOY
+.MMZ LORDCHEEZ
+.MMZ OMNIKAKO
+.MMZ QUICKFREEZE
+.MMZ SCROTE
+.MMZ STICKMAN
+.MMZ TRAVELER
+
+--------------------------------------------------
+| MODEL SPECS                                    |
+--------------------------------------------------
+
+I opted not to list the specs since they vary per model.
+Most models run from 700-1000 polys
+
+--------------------------------------------------
+| CUSTOM ANIMATIONS                              |
+--------------------------------------------------
+
+None, but all backpaks/bombs/diffuse kits that are displayed on the models have been
+modified to represent personalities of the player. A pic is included in the PAK to show this.
+
+--------------------------------------------------
+| INSTALLATION INSTRUCTIONS                      |
+--------------------------------------------------
+
+Rename the models according to who you want to replace
+
+i.e. arab, terror, gsgn, gign, etc. and put them in the;
+
+Halflife\cstrike\models\player\arab
+                               arctic
+                               gign
+                               gsg9
+                               sas
+                               terror
+                               urban
+                               vip
+
+--------------------------------------------------
+| MISC INFO                                      |
+--------------------------------------------------
+
+Thank you for looking at my models.
+
+-Daniel "KazeXtreme" Fields
+  spitfire@dimensional.com
+
+
+***Credits****
+
+Milkshape 3D : Man this application is soo much easier than 3DsMax hhehehe
+PaintShop Pro : Best for indexed pallete images
+Adobe Photoshop : For everything else
+
+
+

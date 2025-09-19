@@ -1,0 +1,3 @@
+This skin was made by "SET" Kiril Aleksandrov
+To install him create a folder "DJ IV" in your Half-Life\valve\models\player directory
+For more info GaMeR@dir.bg

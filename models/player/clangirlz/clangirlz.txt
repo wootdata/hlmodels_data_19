@@ -1,0 +1,16 @@
+Skinner: SlimReapeR
+Skin Name: clangirlz
+Model Used: Trinity Rage by AUSTIN
+
+This model should only be used by members of the nutz clan. Have this skin installed
+to see them make you week at the knees (and neck)!
+
+Installation of Plugin
+
+Create a folder called clangirlz in your half-life/valve/models/player folder.
+Extract all files into this new folder.
+
+SlimReapeR  Http://www.slimreaper.co.uk
+	    mail: slimreaper@slimreaper.co.uk
+
+

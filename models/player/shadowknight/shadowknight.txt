@@ -1,0 +1,2 @@
+Unzip these file sinto your sierra/half-life/valve/models/player/ShadowKnight directory
+Official skin (right now) for Clan SDK made by [SDK]CyberMancer. for more clan info see http://www.geocities.com/TimesSquare/Chasm/8346/intro.html
