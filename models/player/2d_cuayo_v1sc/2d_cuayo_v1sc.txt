@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_cuayo
+Source Model Hash : 731fe9137d08cafeee380d4181ad8b6a
+Source Model Date : 1778046547 (2026/05/05)
+
+Ported Model Name : 2d_cuayo_v1sc
+Ported Model Hash : ddd84c50f2434a157543e412e20bb56e
+Ported Model Date : 1780823008 (2026/06/07)
